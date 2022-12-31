@@ -1,2 +1,2 @@
 # Cyptology
-A simple pair of prgrams to encode and decode a string
+A simple pair of prgrams to encrypt and decrypt a string
