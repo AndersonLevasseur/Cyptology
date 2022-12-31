@@ -12,7 +12,7 @@
 7. Take the integer from the console and assign it to receivedNumber
 8. Run Encrypt.js
  *You should see a numbr and an array of integers*
-9. **You have succesfully encrypted yoour string!!**
+ **You have succesfully encrypted your string!!**
 
 ### Decrypt
 1. At this point you should have set primeOne and modPrime in Decrypt.js
@@ -22,3 +22,4 @@
 5. At this point you should have an integer and an array of integers copied from Encrypt.js
 6. Paste the array of integers into messageArray
 7. Assign the integer from Encrypt to receivedNumber
+**You have succesfully decrypted your string!!**
