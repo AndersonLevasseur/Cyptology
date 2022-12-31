@@ -17,8 +17,8 @@
 ### Decrypt
 1. At this point you should have set primeOne and modPrime in Decrypt.js
 2. pick a ranodom number and assing it to secretNumber
-3. Run Decrypt.js
-4.  *You should see a number and undefined in your console*
+3. Run Decrypt.js 
+ *You should see a number and undefined in your console*
 5. At this point you should have an integer and an array of integers copied from Encrypt.js
 6. Paste the array of integers into messageArray
 7. Assign the integer from Encrypt to receivedNumber
